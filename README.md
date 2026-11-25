@@ -2,6 +2,14 @@
 
 Aplicação acadêmica da Global Solution CitizenTech 2026.2 para acompanhar a telemetria de um reservatório e administrar pontos monitorados. A interface reúne uma landing page explicativa e um painel conectado à API REST do projeto.
 
+## Integrantes
+
+- Artur de Novazzi Maia — RM 572624
+- Bruno Araújo Castro — RM 572723
+- Arthur Germano Pinheiro — RM 574042
+- João Pedro de Souza — RM 571437
+- Artur Nepomuceno Dias Gomes — RM 572626
+
 ## Funcionalidades
 
 - Landing page com apresentação do desafio, proposta, integração, decisões de privacidade, impacto e etapas do projeto.
